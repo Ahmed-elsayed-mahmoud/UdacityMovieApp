@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_api_key">77be3097a339dcb67079ba28a179638e</string>
+    <string name="server_base_url">http://api.themoviedb.org/3/discover/movie</string>
+    <string name="trailer_url">http://api.themoviedb.org/3/movie</string>
+</resources>
