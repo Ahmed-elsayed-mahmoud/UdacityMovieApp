@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Popular Movieas App
 
 ## Overview
@@ -44,3 +45,8 @@ To make server calls, we use the API from [themoviedb.org](https://www.themovied
 ## License
  
 CopyRight 2016 Ahmed Elsayed Mahmoud
+=======
+# MovieApp
+It is a final project for an android app specially MovieApp
+it get movies from api , parsing them to be shown for user , sorting them by popularity or user ratingand save favourites by content provider.
+>>>>>>> a0cf593faa8c33cfe6b3ae56bfc57731a7bec339
