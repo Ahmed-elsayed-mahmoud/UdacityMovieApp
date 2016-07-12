@@ -1,4 +1,4 @@
-# Popular Movieas App
+# Popular Movies App
 
 ## Overview
 
