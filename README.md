@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Popular Movieas App
 
 ## Overview
@@ -23,7 +22,11 @@ In order to access themoviedb.org API an API key is required.
 It is required to modify server-api-key.xml in order to add a valid api key. 
 Otherwise the server shall reject requests as unauthorized. 
 
-### [Android Studio]
+### [Android Studio](https://developer.android.com/studio/index.html)
+
+Android Studio provides the fastest tools for building apps on every type of Android device.
+
+World-class code editing, debugging, performance tooling, a flexible build system, and an instant build/deploy system all allow you to focus on building unique and high quality apps.
 
 
 ## Running Tests
@@ -46,7 +49,4 @@ To make server calls, we use the API from [themoviedb.org](https://www.themovied
  
 CopyRight 2016 Ahmed Elsayed Mahmoud
 =======
-# MovieApp
-It is a final project for an android app specially MovieApp
-it get movies from api , parsing them to be shown for user , sorting them by popularity or user ratingand save favourites by content provider.
->>>>>>> a0cf593faa8c33cfe6b3ae56bfc57731a7bec339
+
