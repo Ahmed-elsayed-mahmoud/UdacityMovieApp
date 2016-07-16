@@ -48,5 +48,4 @@ To make server calls, we use the API from [themoviedb.org](https://www.themovied
 ## License
  
 CopyRight 2016 Ahmed Elsayed Mahmoud
-=======
 
